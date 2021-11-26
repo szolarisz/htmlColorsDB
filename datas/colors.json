@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Aquamarine",
+        "code": "#7FFFD4"
+    },
+    {
+        "name": "Azure",
+        "code": "#F0FFFF"
+    },
+    {
+        "name": "Cornsilk",
+        "code": "#FFF8DC"
+    },
+    {
+        "name": "Ivory",
+        "code": "#FFFFF0"
+    },
+    {
+        "name": "Crimson",
+        "code": "#DC143C"
+    },
+    {
+        "name": "Pink",
+        "code": "#FF1A8c"
+    },
+    {
+        "name": "CadetBlue",
+        "code": "#5F9EA0"
+    }
+]
